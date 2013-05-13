@@ -3,5 +3,5 @@ Hi
 hello
 three
 four
-five
+fiveAfterMergeRetain
 Typing junk after switching to feature branch
