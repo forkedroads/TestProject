@@ -1,3 +1,0 @@
-I am going to commit this
-Remove it later
-And see how to remove from git track
