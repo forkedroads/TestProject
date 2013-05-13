@@ -3,5 +3,6 @@ Hi
 hello
 three
 four
-five
+five1
 Typing junk after switching to feature branch
+Merge confilct ! :)
